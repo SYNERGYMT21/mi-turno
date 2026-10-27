@@ -1,0 +1,6 @@
+{
+  "appId": "cl.miturno.finanzas",
+  "appName": "Mi Turno",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
